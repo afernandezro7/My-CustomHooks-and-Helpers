@@ -17,5 +17,6 @@ Example:
 useForm() // receives a default object value  {name: '',email: '',password: ''}
 
 
-handleInputChange: function that modify de state 
-reset: function that reset the form
+handleInputChange: function that modify the state 
+
+reset: function that reset the Form
