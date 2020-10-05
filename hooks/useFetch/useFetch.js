@@ -25,7 +25,6 @@ export const useFetch = ( url ) => {
                         error: null,
                         data
                     });
-
                 }
 
             });
